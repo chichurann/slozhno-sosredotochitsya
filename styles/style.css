@@ -86,8 +86,6 @@
   position: absolute;
   z-index: -1;
   visibility: var(--rec-visibility, visible);
-  inset-inline-end: 20px;
-  inset-block-start: 20px;
   display: inline-flex;
   align-items: center;
   gap: 10px;
